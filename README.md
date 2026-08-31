@@ -4,11 +4,11 @@ A small collection of app icons for use with [Loon](https://www.nsloon.com/).
 
 ## Available Icons
 
-| App | 120 × 120 | Hi-Res |
-| --- | --- | --- |
-| ChatGPT | [![ChatGPT](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/ChatGPT.png)](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/ChatGPT.png) | [Download](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/ChatGPT-Hi-Res.png) |
-| Claude | [![Claude](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Claude.png)](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Claude.png) | [Download](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Claude-Hi-Res.png) |
-| Meta | [![Meta](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Meta.png)](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Meta.png) | [Download](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Meta-Hi-Res.png) |
+| App | 120 × 120 |
+| --- | --- |
+| ChatGPT | [![ChatGPT](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/ChatGPT.png)](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/ChatGPT.png) |
+| Claude | [![Claude](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Claude.png)](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Claude.png) |
+| Meta | [![Meta](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Meta.png)](https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Meta.png) |
 
 ## Raw URLs
 
@@ -18,28 +18,16 @@ A small collection of app icons for use with [Loon](https://www.nsloon.com/).
 https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/ChatGPT.png
 ```
 
-```text
-https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/ChatGPT-Hi-Res.png
-```
-
 ### Claude
 
 ```text
 https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Claude.png
 ```
 
-```text
-https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Claude-Hi-Res.png
-```
-
 ### Meta
 
 ```text
 https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Meta.png
-```
-
-```text
-https://raw.githubusercontent.com/JacktheRanger/Icons-for-Loon/main/Meta-Hi-Res.png
 ```
 
 ## Usage
